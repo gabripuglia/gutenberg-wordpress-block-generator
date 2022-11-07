@@ -1,0 +1,25 @@
+{
+	"name": "multiple-blocks",
+	"version": "1.0.0",
+	"description": "Blocks",
+	"author": "The WordPress Contributors + Gabriele Puglisi",
+	"license": "GPL-2.0-or-later",
+	"scripts": {
+		"create-block": "node node_scripts/create_block.js"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^24.5.0",
+		"parent-module": "^3.0.0"
+	},
+	"dependencies": {
+		"@wordpress/block-editor": "^10.4.0",
+		"@wordpress/element": "^4.19.0",
+		"@wordpress/i18n": "^4.21.0",
+		"async": "^3.2.4",
+		"bootstrap": "^5.2.2",
+		"caller-path": "^4.0.0",
+		"del": "^7.0.0",
+		"mv": "^2.1.1",
+		"react-bootstrap": "^2.5.0"
+	}
+}

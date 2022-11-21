@@ -13,6 +13,7 @@
 	},
 	"dependencies": {
 		"@wordpress/block-editor": "^10.4.0",
+		"@wordpress/components": "^22.0.0",
 		"@wordpress/element": "^4.19.0",
 		"@wordpress/i18n": "^4.21.0",
 		"async": "^3.2.4",

@@ -5,7 +5,7 @@ With this script you may create how many wordpress gutenberg blocks you want wit
 - Set the development env: https://developer.wordpress.org/block-editor/getting-started/devenv/
 - Clone this repo in your plugin or theme
 - From the main folder of this repo, run the command `npm install`
-- Include the file BlockGenerator.php (include, require, require_once)
+- Include the file BlockGenerator.php (include, require, require_once) in your function.php or similar
 
 ## Create Block
 - From the main folder of this repo, run the command `npm run create-block {block_name}`

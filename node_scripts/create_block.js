@@ -1,5 +1,5 @@
 const { exec } = require("child_process");
-const fs = require('fs')
+const fs = require('fs');
 const mv = require("mv");
 
 const myArgs = process.argv.slice(2);
